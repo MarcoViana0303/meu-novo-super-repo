@@ -1,0 +1,5 @@
+arroz
+feijão
+carne
+legumes
+proteinas
